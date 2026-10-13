@@ -1,5 +1,5 @@
 <resources>
-    <style name="Theme.FGHEngine" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Theme.FGHEngine" parent="@android:style/Theme.Material.Light.NoActionBar">
         <item name="android:fontFamily">sans</item>
         <item name="android:statusBarColor">#DDF3FF</item>
         <item name="android:navigationBarColor">#DDF3FF</item>
