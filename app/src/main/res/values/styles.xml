@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.FGHEngine" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#DDF3FF</item>
+        <item name="android:navigationBarColor">#DDF3FF</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
